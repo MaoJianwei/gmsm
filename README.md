@@ -3,7 +3,7 @@
 GM SM2/3/4 library based on Golang
 =======
 
-[![Build Status](https://travis-ci.com/tjfoc/gmsm.svg?branch=master)](https://travis-ci.com/github/tjfoc/gmsm)
+[![Build Status](https://travis-ci.com/MaoJianwei/gmsm.svg?branch=master)](https://travis-ci.com/github/MaoJianwei/gmsm)
 
 
 ## Feature
@@ -27,17 +27,6 @@ GM SM2/3/4 library based on Golang
 
 ## [Usage 使用说明](./API使用说明.md)
 
-## Communication
-tjfoc国密交流 
-   
-[![Join the chat at https://gitter.im/tjfoc/gmsm](https://badges.gitter.im/tjfoc/gmsm.svg)](https://gitter.im/tjfoc/gmsm?utm_source=badge&utm_medium=badge&utm_campaign=-badge&utm_content=badge)
-
-
-- 如果你对国密算法开源技术及应用感兴趣，欢迎添加“苏州同济区块链研究院·小助手“微信，回复“国密算法进群”，加入“同济区块链国密算法交流群”。微信二维码如下:  
-     ![微信二维码](https://github.com/tjfoc/wutongchian-public/blob/master/wutongchain.png)
-
-- 发送邮件到tj@wutongchain.com
- 
  
  ## License
  版权所有 苏州同济区块链研究院有限公司(http://www.wutongchain.com/)

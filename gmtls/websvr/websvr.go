@@ -1,7 +1,7 @@
 package websvr
 import (
-	"github.com/tjfoc/gmsm/gmtls"
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/MaoJianwei/gmsm/gmtls"
+	"github.com/MaoJianwei/gmsm/x509"
 	"io/ioutil"
 	"crypto/tls"
 	x "crypto/x509"

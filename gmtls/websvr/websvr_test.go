@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"testing"
 	"time"
-	"github.com/tjfoc/gmsm/x509"
+	"github.com/MaoJianwei/gmsm/x509"
 
-	"github.com/tjfoc/gmsm/gmtls"
+	"github.com/MaoJianwei/gmsm/gmtls"
 )
 
 const (
